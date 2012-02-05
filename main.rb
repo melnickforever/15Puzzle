@@ -1,7 +1,7 @@
 require "puzzle.rb"
 
 
-Shoes.app :title => "15 Puzzle", :width => 200, :height => 245 do
+Shoes.app :title => "15 Puzzle", :width => 210, :height => 250 do
 
   # puzzle init
   p = Puzzle.new
@@ -104,7 +104,7 @@ Shoes.app :title => "15 Puzzle", :width => 200, :height => 245 do
                       s[n].move(s[n].left() + lt[1]*50, s[n].top()+lt[0]*50)
 
                       if p.win?
-                        Shoes.app :title => "15 Puzzle", :width => 200, :height => 245 do
+                        Shoes.app :title => "15 Puzzle", :width => 210, :height => 250 do
                           image "./images/smile.jpg"
 
                           stack(:top => 200, :left => 0) do

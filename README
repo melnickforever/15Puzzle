@@ -1,4 +1,4 @@
-15 puzzle is powered by ruby and shoesrb 3 (GUI).d
+15 puzzle for windows is powered by ruby and shoesrb 3 (GUI).
 
 For correct puzzle work  needed:
 ruby 1.9.x or older (visit http://www.ruby-lang.org/)
