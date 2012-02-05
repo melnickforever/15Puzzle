@@ -7,7 +7,13 @@ shoesrb 3 (visit http://shoesrb.com/)
 Example of use:
 
  shoes main.rb
- 
+
+Project branches:
+
+	master - main branch. Just core files.
+	windows - branch for maintenance of windows version the game.
+	linux - branch for maintenance of linux version the game.
+	
 For more information please visit http://melnickforever.github.com/15Puzzle/
 I hope you will enjoy this app too.
 
