@@ -5,8 +5,16 @@ ruby 1.9.x or older (visit http://www.ruby-lang.org/)
 shoesrb 3 (visit http://shoesrb.com/) 
 
 Example of use:
+Download and install shoesrb.
 
- shoes main.rb
+ Go into All Programs, then Shoes, then Shoes. 
+ A file selector box should come up. 
+ Browse to your desktop and select main.rb.
+ Click OK and you're on your way.
+ 
+ OR
+ 
+ Double click on 15Puzzle.shy file.
  
 For more information please visit http://melnickforever.github.com/15Puzzle/
 I hope you will enjoy this app too.
