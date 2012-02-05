@@ -6,7 +6,9 @@ shoesrb 3 (visit http://shoesrb.com/)
 
 Example of use:
 
- shoes main.rb
+ shoes main.rb  
+ or
+ ./15Puzzle.run
  
 For more information please visit http://melnickforever.github.com/15Puzzle/
 I hope you will enjoy this app too.
